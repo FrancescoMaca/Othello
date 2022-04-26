@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.othello"},{"l":"org.othello.logic"},{"l":"org.othello.logic.AI"},{"l":"org.othello.logic.board"},{"l":"org.othello.logic.music"},{"l":"org.othello.ui"},{"l":"org.othello.ui.components"},{"l":"org.othello.ui.scenes"}]

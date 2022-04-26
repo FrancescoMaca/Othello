@@ -1,8 +1,0 @@
-org.othello
-org.othello.logic
-org.othello.logic.AI
-org.othello.logic.board
-org.othello.logic.music
-org.othello.ui
-org.othello.ui.components
-org.othello.ui.scenes
